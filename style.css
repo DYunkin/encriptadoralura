@@ -194,7 +194,10 @@ footer{
     }
     
     .footer{
+        grid-template-columns: 1fr;
+        grid-template-rows: 75% auto;
         width: auto;
+        margin: auto 40px;
     }
 }
 
