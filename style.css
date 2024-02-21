@@ -166,7 +166,7 @@ footer{
     font-size: 16px;
     color: #495057;
     text-align: left;
-    padding: 30px;
+    padding: 50px;
 }
 
 @media screen and (max-width: 800px) {
@@ -194,8 +194,6 @@ footer{
     }
     
     .footer{
-        grid-template-columns: 1fr;
-        grid-template-rows: 75% auto;
         width: auto;
         margin: auto 40px;
     }
@@ -213,4 +211,7 @@ footer{
     .munieco{
         display: none;
     }
+
+    .footer{
+        margin: auto 16px;
 }
