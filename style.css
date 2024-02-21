@@ -213,5 +213,6 @@ footer{
     }
 
     .footer{
-        margin: auto;
+        margin: auto 16;
+    }
 }
