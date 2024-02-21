@@ -118,7 +118,7 @@ margin-top: 40px;
     background-color: #ffffff;
     height: calc(100% + 48px);
     border-radius: 32px;
-    padding: 32px;
+    padding: 25px;
     box-sizing: border-box;
     display: flex;
     flex-direction: column;
@@ -213,5 +213,5 @@ footer{
     }
 
     .footer{
-        margin: auto 16px;
+        margin: auto;
 }
